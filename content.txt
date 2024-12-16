@@ -1,0 +1,153 @@
+<meta charset="UTF-8">
+<title></title>
+
+
+<center>
+<style>
+.adult-items-table {
+    border: 5px solid #fc5185;
+    border-radius: 10px;
+    width: 500px;
+    margin-bottom: 10px; /* floatの代わりに余白で調整 */
+}
+</style>
+
+
+
+<table border="0" cellpadding="10" cellspacing="0" style="border: 5px solid #FFFFFF; border-radius: 10px; width: 600px; margin: 0 auto;">
+<tbody><tr><td align="center">
+ 
+</td></tr>
+</tbody></table>
+
+
+
+
+<table width="700" cellpadding="2" cellspacing="2" bgcolor="#DDDDDD">
+<tbody><tr><td bgcolor="#FFFFFF">
+
+<table cellspacing="3" cellpadding="4" border="0" width="100%">
+<tbody><tr><td bgcolor="#ffd2d0" colspan="2" align="left">
+<font color="#000000" size="3">
+<b>　 はじめに</b>
+</font>
+</td></tr>
+<tr>
+<td width="5%"></td>
+<td width="95%" align="left">
+<font color="#333333" size="3">
+ <img src="https://dl.hstorage.io/20241108080915_726a52724f72.png" alt="Image Description" width="500">
+<br>
+
+SAMPLE・ロゴは入りません<br>
+
+<b>また陰部の露出がない限り、モザイクはありません</b><br>
+モデルはすべて成人女性をイメージして作成しています<br>
+Anyaの作品一覧は<a href="https://auctions.yahoo.co.jp/jp/booth/vividleap2024" target="_blank">
+    <b>「こちら」</b>
+</a>からどうぞ
+<br><br>
+
+</font>
+</td>
+</tr>
+</tbody></table>
+
+
+<table cellspacing="3" cellpadding="4" border="0" width="100%">
+<tbody><tr><td bgcolor="#fa8383" colspan="2" align="left">
+<b><font color="#000000" size="3">
+　印刷について
+</font></b>
+</td></tr>
+<tr>
+<td width="5%"></td>
+<td width="95%" align="left">
+<font color="#333333" size="3">
+
+ <img src="https://dl.hstorage.io/20241108080056_6f6973654833.png" alt="Image Description" width="500">
+
+<br>
+<b>基本A4サイズでお届けします</b>が、カードタイプやL判へ変更可能です<br>
+変更を希望される方は、取引メッセージからお知らせください<br>
+<br>
+
+</font>
+</td>
+</tr>
+</tbody></table>
+
+<table cellspacing="3" cellpadding="4" border="0" width="100%">
+<tbody><tr><td bgcolor="#ffd2d0" colspan="2" align="left">
+<b><font color="#000000" size="3">
+　発送詳細
+</font></b>
+</td></tr>
+<tr>
+<td width="5%"></td>
+<td width="95%" align="left">
+<font color="#333333" size="3">
+ <img src="https://dl.hstorage.io/20241108080057_5a4563644b75.png" alt="Image Description" width="500">
+<br>
+
+原則24時間以内の最短での発送を心がけますが、<br>
+遅れる場合もありますのでご了承ください。
+<br><br>
+</font>
+</td>
+</tr>
+</tbody></table>
+
+
+<table cellspacing="3" cellpadding="4" border="0" width="100%">
+<tbody><tr><td bgcolor="#fa8383" colspan="2" align="left">
+<font color="#000000" size="3">
+<b>　 通知・発送連絡について</b>
+</font>
+</td></tr>
+<tr>
+<td width="5%"></td>
+<td width="95%" align="left">
+<font color="#333333" size="3">
+
+<img src="https://dl.hstorage.io/20241108080057_6c6336464778.png" alt="Image Description" width="500"><br>
+<b>システム通知</b>にてお知らせします<br>
+多くの落札対応により、個別のメッセージ対応に遅れます<br>
+48時間以上経っても返信ない場合、お手数ですが再度いただけますと幸いです。
+
+<br><br>
+
+
+</font>
+</td>
+</tr>
+</tbody></table>
+
+
+<table cellspacing="3" cellpadding="4" border="0" width="100%">
+<tbody><tr><td bgcolor="#ffd2d0" colspan="2" align="left">
+<b><font color="#000000" size="3">
+　リクエストついて
+</font></b>
+</td></tr>
+<tr>
+<td width="5%"></td>
+<td width="95%" align="left">
+<font color="#333333" size="3">
+
+<img src="https://dl.hstorage.io/20241108080057_5a794c37464c.png" alt="Image Description" width="500"><br>
+<b>再販はしていません</b>が、希望があれば、落札価格での再販可能です<br>
+[ ] 内の番号をお知らせください<br><br>
+取引メッセージから優先的にリクエストを承ります<br>
+その他、質問欄や<a href="https://docs.google.com/forms/d/1h62q2tzQcrOivclUlASkwaJgmTKeaSn4GPK7iYMPjPM/viewform?edit_requested=true" target="_blank"><b>「こちら」</b>  
+</a>より匿名でリクエストを承ります<br>
+
+
+</font>
+</td>
+</tr>
+</tbody></table>
+
+
+
+</td></tr></tbody></table></center>
