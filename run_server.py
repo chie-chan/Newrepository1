@@ -8,7 +8,10 @@ app = FastAPI()
 
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["http://localhost:3000"],  # フロントエンドが動くURL
+    allow_origins=[
+        "http://localhost:3000",  # 既存のフロントエンドURL
+        "https://newrepository1.vercel.app"  # 新しいフロントエンドURL
+    ],
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
